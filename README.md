@@ -1,4 +1,4 @@
 # firstrepo
 This is my first Git Repository.
 <br>
-Author - Shobit Pandey 
+Author - Shobit (pandey)
